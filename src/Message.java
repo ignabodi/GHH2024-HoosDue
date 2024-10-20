@@ -1,6 +1,10 @@
 
-public class GetMessage() {
-    public static void getHappy(String tdaysFeel, String happyM) {
+public class Message {
+    public static void getMessage(String tdaysFeel) {
+
+        if (tdaysFeel.equals("happy")) {
+            System.out.p;
+        }
     }
     public static void getSad(String tdaysFeel, String sadM) {
 
@@ -11,5 +15,6 @@ public class GetMessage() {
     public static void getAngry(String tdaysFeel, String angryM) {
 
     }
+
 
 }

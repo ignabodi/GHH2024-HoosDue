@@ -2,14 +2,16 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+    //FATIMAH THIS IS WHERE YOU START YOUR METICULOUS JOURNEY OF BANGING YOUR HEAD TRYING TO FIGURE OUT HOW TO DO SOMETHING
+        //  *REPLACE THIS WHOLE LINE WITH A GREETING TO THE USER AND WELCOMING THEM AND DECLARE A SCANNER*
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+
+        // *then ask them to choose(TYPE) from a list of emotions angry, happy, sad, anxious, scared, good, bad*
+
+
+        // *then ask them if they want to be pushed or if they want to be comforted*
+
+
+        //REMEMBER TO TAKE THEIR ANSWER TO EACH OF THESE QUESTIONS AND STORE THEM BY DECLARING A STRING = TO THEIR ANSWER*
     }
 }
