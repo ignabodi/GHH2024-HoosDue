@@ -12,6 +12,7 @@ public class Main {
         // *then ask them if they want to be pushed or if they want to be comforted*
 
 
+
         //REMEMBER TO TAKE THEIR ANSWER TO EACH OF THESE QUESTIONS AND STORE THEM BY DECLARING A STRING = TO THEIR ANSWER*
     }
 }
